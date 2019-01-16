@@ -4,7 +4,7 @@ This extension will intercept certain Soundcloud requests and allows you to enjo
 
 ## Installation ⌨️
 
-1. Clone this repository: `git clone git@github.com:vernondegoede/adfree-soundcloud.git`
+1. Clone this repository: `git clone git@github.com:vernondegoede/adfree-soundcloud.git` or download the latest [ZIP file](https://github.com/vernondegoede/adfree-soundcloud/releases/tag/1.0.0) from the releases.
 2. Open [`chrome://extensions`](chrome://extensions)
 3. Toggle the "Developer mode" checkbox in the top-right corner.
 4. Press the "Load unpacked" button in the top-left corner.
