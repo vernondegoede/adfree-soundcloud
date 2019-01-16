@@ -1,0 +1,14 @@
+{
+  "name": "Adfree Soundcloud",
+  "version": "1.0",
+  "description": "Enjoy Soundcloud without the need for a Pro account.",
+  "manifest_version": 2,
+  "background": {
+    "scripts": ["processes/background.js"],
+    "persistent": true
+  },
+  "permissions": ["webRequest", "webRequestBlocking", "tabs", "<all_urls>"],
+  "icons": {
+    "128": "assets/icon-128.png"
+  }
+}
